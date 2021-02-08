@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.paypal.com\/donate\/?token=PrIyPOdgodynrsj9JuUQPXT_t_pNhPAUX6lNYWpaKFlf8CckGErYKvyb-Ev4jVmdFgi1SmJBism7SqYH"
+                 "value":"https:\/\/riez.de\/support\/"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -243,6 +243,24 @@
                         }]
                 }, 
                 {
+                 "id":11,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":12,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":false
+                        }]
+                }, 
+                {
                  "id":13,
                  "properties":[
                         {
@@ -267,6 +285,24 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
+                        }]
+                }, 
+                {
+                 "id":19,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":20,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":false
                         }]
                 }, 
                 {
@@ -726,6 +762,15 @@
                 }, 
                 {
                  "id":49,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":69,
                  "properties":[
                         {
                          "name":"collides",
